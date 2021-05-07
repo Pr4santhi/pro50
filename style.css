@@ -1,0 +1,26 @@
+/* *{
+    border:2px solid black;
+} */
+img{
+    border:2px solid black; 
+    border-radius: 20px;
+}
+
+.menu{
+    margin-bottom: 100px;
+    margin-left: 500px;
+    
+}
+.header{
+    border:2px solid red;
+    background-color: royalblue;
+    display:flex;
+    justify-content: space-between;
+     margin-bottom: 50px; 
+    padding: 0px;
+}
+
+.grid{
+    display:flexbox;
+    justify-content: space-around;
+}
